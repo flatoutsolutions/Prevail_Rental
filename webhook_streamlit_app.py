@@ -19,6 +19,10 @@ if "messages" not in st.session_state:
             "content": """👋 Welcome to our Equipment Rental Assistant!
 
 Hi, which equipment  do you need?
+
+
+
+""",
             "id": "welcome_message"
         }
     ]
