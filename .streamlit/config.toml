@@ -8,6 +8,5 @@ font = "sans serif"
 
 [server]
 enableStaticServing = true
-
 [browser]
 gatherUsageStats = false
