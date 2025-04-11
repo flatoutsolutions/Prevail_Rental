@@ -18,19 +18,7 @@ if "messages" not in st.session_state:
             "role": "assistant",
             "content": """👋 Welcome to our Equipment Rental Assistant!
 
-I'm here to help you rent equipment for your next project. I can help you with:
-
-<ul>
-<li>Browsing available equipment categories</li>
-<li>Checking detailed information about specific products</li>
-<li>Verifying availability for your desired dates</li>
-<li>Providing pricing information for different rental durations</li>
-<li>Creating a customer profile for you</li>
-<li>Booking equipment for your project</li>
-</ul>
-
-Just let me know what you're looking for, and I'll guide you through the process!
-""",
+Hi, which equipment  do you need?
             "id": "welcome_message"
         }
     ]
